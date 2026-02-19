@@ -1,3 +1,2 @@
-flask: This is the "Engine." It’s the framework that connects your app.py logic to your index.html template.
-
-gunicorn: This is the "Transmission." It’s a production-grade server tool that ensures your website stays online and can handle multiple visitors at once.
+flask
+gunicorn
